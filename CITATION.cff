@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Simulation Code for "Improving the Convergence Rates of
+  Forward Gradient Descent with Repeated Sampling"
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Niklas
+    family-names: Dexheimer
+    email: n.dexheimer@utwente.nl
+    affiliation: University of Twente
+  - given-names: Johannes
+    family-names: Schmidt-Hieber
+    email: a.j.schmidt-hieber@utwente.nl
+    affiliation: University of Twente
+repository-code: >-
+  https://github.com/NiklasDexheimer/FGDsimulations/tree/main
