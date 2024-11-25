@@ -7,5 +7,5 @@ authors:
     given-names: "Johannes"
 title: "Simulation code: Improving the Convergence Rates of Forward Gradient Descent with Repeated Sampling"
 date-released: 2024-11-27
+url: "https://github.com/NiklasDexheimer/FGDsimulations"
 version: 1.0.0
-url: "https://github.com/NiklasDexheimer/FGDsimulations/tree/main"
